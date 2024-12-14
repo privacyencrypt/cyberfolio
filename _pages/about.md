@@ -7,8 +7,8 @@ image: '/images/100.jpg'
 Hello there!
 Welcome to my corner of the digital world. My name is Ty, and I am an educator-turned-cybersecurity enthusiast with a mission to make the digital space safer for everyone. With a Master’s degree in Teaching and a deep passion for learning, I’ve dedicated my career to helping others grow—and now, I’m channeling that same dedication into cybersecurity as an aspiring SOC Analyst.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-> <cite>Steve Jobs</cite>
+> Security is not a product, but a process. It’s about people, education, and continuous improvement.
+> <cite>Bruce Schneier</cite>
 
 Coming from a strong background in education, I’ve always believed that teaching is one of the most powerful tools to inspire and empower others. Whether I’m breaking down a complex concept in the classroom or troubleshooting a security vulnerability in a digital environment, I find joy in exploring, explaining, and simplifying the intricate. My transition into cybersecurity stems from my belief that knowledge should not only empower but also protect.
 
