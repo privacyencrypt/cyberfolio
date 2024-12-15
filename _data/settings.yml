@@ -34,16 +34,16 @@ cta_button:
 # Author Settings
 author:
   author_intro: Hey, I’m Ty Neeley
-  author_name: Kevin Jones
-  author_role: SOC Analyst
+  author_name: Ty Neeley
+  author_role: Cybersecurity Specialist | SOC Analyst
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: One Stop Daily <em>News,</em> <em>Article,</em> <em>Inspiration</em>. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
+  sidebar_title: One Stop Daily <em>Interactive Labs,</em> <em>Security Insights,</em> <em>Cyber Defense Strategies</em>. # You can add an 'em' element to highlight text.
+  sidebar_description: Welcome to a unique world of cybersecurity and innovation! Here you’ll find interactive labs, security tips, and real-world solutions aligned with CompTIA Security+ and CySA+ standards. Explore content designed to elevate your understanding of threat detection, incident response, and network defense.
 
 
 # Social Links
@@ -65,7 +65,7 @@ social:
 projects:
   enable: true
   projects_title: Product Design <em>Showcase</em> # You can add an 'em' element to highlight text.
-  projects_description: I present my top-tier projects, meticulously crafted with unwavering passion, simplicity, boundless creativity, and unparalleled attention to detail.
+  projects_description: I present interactive labs and cybersecurity projects, crafted with precision and aligned to CompTIA Security+ and CySA+ standards. These labs focus on practical skills like threat detection, incident response, and network hardening to secure digital environments.
 
 
 #-------------------------------
