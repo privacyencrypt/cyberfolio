@@ -84,7 +84,7 @@ testimonial-items:
   - name: Ethan Robinson
     image: "/images/client-2.jpg"
     designation : Blockchain Developer
-    content : Kevin is a true visionary in the field of cyber security. His ability to think outside the box and push boundaries is what sets him apart from the rest.
+    content : Ty is a true visionary in the field of cyber security. His ability to think outside the box and push boundaries is what sets him apart from the rest.
 
   - name: Matthew Garcia
     image: "/images/client-3.jpg"
@@ -150,8 +150,8 @@ mailchimp:
   enable: true
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and stay ahead in cybersecurity. Because your security matters!
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_input_text: Your email address
+  mailchimp_identifier: https://github.us10.list-manage.com/subscribe/post?u=21c208292da350e84bd383e0b&id=2adf53acb3
+  mailchimp_input_text: privacyencrypt@protonmail.com
   mailchimp_button_text: Subscribe
 
 
