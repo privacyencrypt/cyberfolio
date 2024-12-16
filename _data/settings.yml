@@ -150,7 +150,8 @@ mailchimp:
   enable: true
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and stay ahead in cybersecurity. Because your security matters!
-  mailchimp_identifier: https://github.us10.list-manage.com/subscribe/post?u=21c208292da350e84bd383e0b&id=2adf53acb3
+  mailchimp_identifier: github.us10.list-manage.com/subscribe/post?u=21c208292da350e84bd383e0b&id=2adf53acb3
+
   mailchimp_button_text: Subscribe
 
 
