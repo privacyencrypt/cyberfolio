@@ -1,36 +1,30 @@
-{% if site.data.settings.mailchimp.enable == true %}
-<!-- begin section subscribe -->
+<!-- Begin Mailchimp Section Subscribe -->
 <section class="section-subscribe">
   <div class="section-subscribe__inner">
 
     <div class="section-subscribe__content">
-      {% if site.data.settings.mailchimp.mailchimp_title %}
-        <h3 class="section-subscribe__title">{{ site.data.settings.mailchimp.mailchimp_title }}</h3>
-      {% endif %}
-      {% if site.data.settings.mailchimp.mailchimp_description %}
-        <p class="section-subscribe__description">{{ site.data.settings.mailchimp.mailchimp_description }}</p>
-      {% endif %}
+      <h3 class="section-subscribe__title">Subscribe to Our <em>Newsletter</em></h3>
+      <p class="section-subscribe__description">Join now and stay ahead in cybersecurity. Because your security matters!</p>
 
-      <form class="section-subscribe__form validate" 
-            action="https://{{ site.data.settings.mailchimp.mailchimp_identifier }}" 
-            method="POST" 
-            id="membedded-subscribe-form" 
-            name="membedded-subscribe-form" 
+      <form action="https://github.us10.list-manage.com/subscribe/post?u=21c208292da350e84bd383e0b&amp;id=2adf53acb3" 
+            method="post" 
+            id="mc-embedded-subscribe-form" 
+            name="mc-embedded-subscribe-form" 
+            class="validate" 
             target="_blank" 
             novalidate>
-        <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-        <input class="section-subscribe__email required email" 
-               id="mce-EMAIL" 
-               type="email" 
-               name="EMAIL" 
-               placeholder="{{ site.data.settings.mailchimp.mailchimp_input_text | default: 'Enter your email address' }}">
-
-        <button class="button button--accent" 
-                id="membedded-subscribe" 
-                type="submit" 
-                name="subscribe">
-          {{ site.data.settings.mailchimp.mailchimp_button_text | default: 'Subscribe' }}
-        </button>
+        <div class="form__group">
+          <label for="mce-EMAIL" class="screen-reader-text">Email Address</label>
+          <input type="email" name="EMAIL" class="section-subscribe__email required email" 
+                 id="mce-EMAIL" 
+                 placeholder="Enter your email address" 
+                 required>
+        </div>
+        <div class="form__group">
+          <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--accent">
+            Subscribe
+          </button>
+        </div>
       </form>
     </div>
 
@@ -42,6 +36,6 @@
 
   </div>
 </section>
-<!-- end section subscribe -->
-{% endif %}
+<!-- End Mailchimp Section Subscribe -->
+
 
