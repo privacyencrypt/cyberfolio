@@ -27,7 +27,7 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: "/cyberfolio/contact/"
-"
+
   cta_button_text: Say Hello!
 
 
