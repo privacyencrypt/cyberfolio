@@ -26,7 +26,8 @@ menu_settings:
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: "{{ site.baseurl }}/contact/"
+  cta_button_link: "/cyberfolio/contact/"
+"
   cta_button_text: Say Hello!
 
 
