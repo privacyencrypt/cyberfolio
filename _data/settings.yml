@@ -139,9 +139,9 @@ gallery_images:
   - alt: 'Together'
     url: '/cyberfolio/images/02-1.jpg'
   - alt: 'Lifestyle'
-    url: '/images/101.jpg'
+    url: '/cyberfolio/images/02-1.jpg'
   - alt: 'Friends'
-    url: '/images/102.jpg'
+    url: '//cyberfolio/images/02-1.jpg'
 
 
 #-------------------------------
