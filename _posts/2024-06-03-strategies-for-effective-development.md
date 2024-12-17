@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Strategies for Effective Development
-description: Design leadership plays a crucial role in guiding teams towards success, fostering a culture of collaboration, innovation, and continuous improvement.
-date: 2024-06-03 15:01:35 +0300
+title: Credential Harvesting Using Site Cloning
+description: Learn how attackers use site cloning techniques for credential harvesting and how to identify and defend against these attacks.
+date: 2024-12-17 10:00:00 +0300
 image: '/images/02.jpg'
-tags: [Coding]
+tags: [Phishing, Social Engineering, Penetration Testing, Web Security]
+
 ---
 Design and development are two sides of the same coin, each contributing uniquely to the creation of engaging, functional, and beautiful digital experiences. Design focuses on the aesthetic and emotional connection with users, creating visually appealing interfaces that draw people in. Development, conversely, is about building the structural integrity and functionality behind these interfaces, ensuring that they work seamlessly and efficiently.
 
