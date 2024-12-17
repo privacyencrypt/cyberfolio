@@ -21,7 +21,7 @@ Protecting against credential harvesting attacks starts with user education and 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-1.jpg" loading="lazy" alt="Keyboard">
+    <img src="/cyberfolio/images/02-1.jpg" loading="lazy" alt="Keyboard">
   </div>
   <em>Photo by <a href="https://unsplash.com/@nublson">Nubelson Fernandes</a> on <a href="https://unsplash.com/photos/persons-hand-on-black-computer-keyboard-Y376h7VN27c">Unsplash</a></em>
 </div>
@@ -35,8 +35,8 @@ Credential harvesting is an ever-evolving threat, especially as technology advan
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/02-2.jpg" loading="lazy" alt="Keyboard">
-    <img src="/images/02-3.jpg" loading="lazy" alt="Keyboard">
+    <img src="/cyberfolio/images/02-2.jpg" loading="lazy" alt="Keyboard">
+    <img src="/cyberfolio/images/02-3.jpg" loading="lazy" alt="Keyboard">
   </div>
   <em>Gallery / <a href="https://unsplash.com/">Unsplash</a></em>
 </div>
