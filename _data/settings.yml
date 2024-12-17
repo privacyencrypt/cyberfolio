@@ -139,7 +139,7 @@ gallery_images:
   - alt: 'Together'
     url: '/workspaces/cyberfolio/images/100.jpg'
   - alt: 'Lifestyle'
-    url: '/images/101.jpg'
+    url: '/workspaces/cyberfolio/images/101.jpg'
   - alt: 'Friends'
     url: '/images/102.jpg'
 
