@@ -141,7 +141,7 @@ gallery_images:
   - alt: 'Lifestyle'
     url: '/cyberfolio/images/02-1.jpg'
   - alt: 'Friends'
-    url: '//cyberfolio/images/02-1.jpg'
+    url: '/cyberfolio/images/02-1.jpg'
 
 
 #-------------------------------
