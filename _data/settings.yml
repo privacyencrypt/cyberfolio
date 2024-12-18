@@ -97,8 +97,7 @@ testimonial-items:
 blog:
   enable: true
   blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
-  blog_description: Stay ahead of the curve with the latest cybersecurity news, insights, and trends. Explore cutting-edge developments, expert perspectives, and actionable strategies—all just a few clicks away. Empower yourself to navigate the ever-changing digital threat landscape with confidence.
-
+  blog_description: Keep up with the fast-paced world of cybersecurity by exploring the latest news, insights, and trends. Dive into expert analysis, emerging technologies, and practical tips to stay informed and prepared. Everything you need to enhance your knowledge and stay secure is just a few clicks away.
 
 #-------------------------------
 # Faq (Frequently asked questions) Settings
