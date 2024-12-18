@@ -159,7 +159,7 @@ mailchimp:
 # Contact Settings
 contact:
   email: f/xvgojkyv # Add your form_id
-  description: Baleon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: Have a question about cybersecurity, need expert guidance, or want to discuss potential collaboration? I’m always open to connecting with businesses and professionals who are passionate about securing their digital assets. Whether it’s addressing your security challenges, exploring innovative solutions, or simply exchanging ideas, don’t hesitate to reach out. Let’s work together to build a safer digital world!
 
 # NOTE
 # Baleon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
