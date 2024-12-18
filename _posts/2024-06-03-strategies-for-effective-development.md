@@ -35,8 +35,8 @@ Credential harvesting is an ever-evolving threat, especially as technology advan
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/cyberfolio/images/02-2.jpg" loading="lazy" alt="Keyboard">
-    <img src="/cyberfolio/images/02-3.jpg" loading="lazy" alt="Keyboard">
+    <img src="/images/02-2.jpg" loading="lazy" alt="Keyboard">
+    <img src="/images/02-3.jpg" loading="lazy" alt="Keyboard">
   </div>
   <em>Gallery / <a href="https://unsplash.com/">Unsplash</a></em>
 </div>
