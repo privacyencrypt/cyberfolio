@@ -135,15 +135,26 @@ gallery:
   gallery_caption: A glimpse into the fusion of creativity and technology, where each image reflects a journey of innovation and abstract thought.
 
 gallery_images:
-  - alt: 'Together'
+  - alt: 'abstract'
     url: '/images/97.jpg'
-  - alt: 'Lifestyle'
+  - alt: 'abstract'
     url: '/images/94.jpg'
-  - alt: 'Friends'
-    url: '/images/02-3.jpg'
+  - alt: 'abstract'
+    url: '/images/96.jpg'
   - alt: 'abstract'
     url: '/images/79.jpg'
-
+   - alt: 'abstract'
+    url: '/images/89.jpg'
+  - alt: 'Lifestyle'
+    url: '/images/87.jpg'
+  - alt: 'abstract'
+    url: '/images/85.jpg'
+  - alt: 'abstract'
+    url: '/images/88.jpg'
+  - alt: 'abstract'
+    url: '/images/92.jpg'
+  - alt: 'abstract'
+    url: '/images/74.jpg'
 
 # Newsletter Settings
 mailchimp:
