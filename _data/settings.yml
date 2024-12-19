@@ -135,23 +135,25 @@ gallery:
   gallery_caption:
 
 gallery_images:
-  <div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/07-1.jpg" loading="lazy">
-    <img src="/images/04-3.jpg" loading="lazy">
-    <img src="/images/07-2.jpg" loading="lazy">
-    <img src="/images/02-1.jpg" loading="lazy">
-    <img src="/images/07-3.jpg" loading="lazy">
-    <img src="/images/02-3.jpg" loading="lazy">
-    <img src="/images/02-2.jpg" loading="lazy">
-    <img src="/images/04-2.jpg" loading="lazy">
-    <img src="/images/04-1.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-
-#-------------------------------
+  - alt: 'Together'
+    url: '/images/02-1.jpg'
+  - alt: 'Lifestyle'
+    url: '/images/02-2.jpg'
+  - alt: 'Friends'
+    url: '/images/02-3.jpg
+  - alt: 'Together'
+    url: '/images/02-1.jpg'
+  - alt: 'Lifestyle'
+    url: '/images/02-2.jpg'
+  - alt: 'Friends'
+    url: '/images/02-3.jpg
+  - alt: 'Together'
+    url: '/images/02-1.jpg'
+  - alt: 'Lifestyle'
+    url: '/images/02-2.jpg'
+  - alt: 'Friends'
+    url: '/images/02-3.jpg
+    
 # Newsletter Settings
 mailchimp:
   enable: true
