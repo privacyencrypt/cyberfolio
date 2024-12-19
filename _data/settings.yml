@@ -140,8 +140,8 @@ gallery_images:
   - alt: 'Lifestyle'
     url: '/images/94.jpg'
   - alt: 'Friends'
-    url: '/images/89.jpg
-  
+    url: '/images/02-3.jpg'
+
 
 # Newsletter Settings
 mailchimp:
