@@ -155,6 +155,16 @@ gallery_images:
     url: '/images/92.jpg'
   - alt: 'abstract-j'
     url: '/images/74.jpg'
+   - alt: 'abstract-k'
+    url: '/images/73.jpg'
+  - alt: 'abstract-l'
+    url: '/images/82.jpg'
+  - alt: 'abstract-m'
+    url: '/images/83.jpg'
+  - alt: 'abstract-n'
+    url: '/images/90.jpg'
+  - alt: 'abstract-o'
+    url: '/images/95.jpg' 
 
 # Newsletter Settings
 mailchimp:
