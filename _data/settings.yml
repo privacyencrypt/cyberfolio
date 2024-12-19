@@ -141,6 +141,8 @@ gallery_images:
     url: '/images/94.jpg'
   - alt: 'Friends'
     url: '/images/02-3.jpg'
+  - alt: 'abstract'
+    url: '/images/79.jpg'
 
 
 # Newsletter Settings
