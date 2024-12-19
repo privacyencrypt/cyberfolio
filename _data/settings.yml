@@ -130,8 +130,8 @@ faq_items:
 # Gallery Settings
 gallery:
   enable: true
-  gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
-  gallery_description: Step into the world of cybersecurity where every project tells a story. From uncovering vulnerabilities in complex systems to building robust defenses, explore the challenges and innovations that drive my mission to secure the digital landscape.
+  gallery_title: A Creative Lens on <em>My Digital Universe</em> # You can add an 'em' element to highlight text.
+  gallery_description: Welcome to a collection of abstract, tech-inspired art designed to challenge the ordinary. When faced with complex problems, I invite you to view this gallery as an external lens to spark an internal shift in mindset. Sometimes, changing how you see the world is the first step to unlocking out-of-the-box solutions that transform challenges into innovations.
   gallery_caption:
 
 gallery_images:
