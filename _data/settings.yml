@@ -132,7 +132,7 @@ gallery:
   enable: true
   gallery_title: A Creative Lens on <em>My Digital Universe</em> # You can add an 'em' element to highlight text.
   gallery_description: Welcome to a collection of abstract, tech-inspired art designed to challenge the ordinary. When faced with complex problems, I invite you to view this gallery as an external lens to spark an internal shift in mindset. Sometimes, changing how you see the world is the first step to unlocking out-of-the-box solutions that transform challenges into innovations.
-  gallery_caption:
+  gallery_caption: A glimpse into the fusion of creativity and technology, where each image reflects a journey of innovation and abstract thought.
 
 gallery_images:
   - alt: 'Together'
