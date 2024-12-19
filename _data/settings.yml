@@ -136,24 +136,24 @@ gallery:
 
 gallery_images:
   - alt: 'Together'
-    url: '/images/02-1.jpg'
+    url: '/images/97.jpg'
   - alt: 'Lifestyle'
-    url: '/images/02-2.jpg'
+    url: '/images/94.jpg'
   - alt: 'Friends'
-    url: '/images/02-3.jpg
+    url: '/images/89.jpg
   - alt: 'Together'
-    url: '/images/02-1.jpg'
+    url: '/images/88.jpg'
   - alt: 'Lifestyle'
-    url: '/images/02-2.jpg'
+    url: '/images/79.jpg'
   - alt: 'Friends'
-    url: '/images/02-3.jpg
+    url: '/images/85.jpg
   - alt: 'Together'
-    url: '/images/02-1.jpg'
+    url: '/images/87.jpg'
   - alt: 'Lifestyle'
-    url: '/images/02-2.jpg'
+    url: '/images/92.jpg'
   - alt: 'Friends'
-    url: '/images/02-3.jpg
-    
+    url: '/images/96.jpg
+
 # Newsletter Settings
 mailchimp:
   enable: true
