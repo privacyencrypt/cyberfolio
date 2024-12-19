@@ -14,7 +14,7 @@ Coming from a strong background in education, I’ve always believed that teachi
 
 In today’s ever-evolving digital landscape, cybersecurity is a cornerstone of safety. My goal is to bridge my teaching expertise with my cybersecurity skills to educate others about the importance of staying secure online. As I grow into the role of a SOC Analyst, I’m committed to applying my problem-solving skills and attention to detail to protect systems, monitor threats, and mitigate risks.
 
-![Friends](/images/102.jpg)
+![Friends](/images/102.jpg#wide)
 *Photo by [Jessica Felicio](https://unsplash.com/@jekafe) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-woman-standing-between-two-men-CT6G8Mz4grs)*
 
 Curiosity has always been my compass. As a perpetual learner, I am excited to dive deep into new technologies, methodologies, and frameworks within the cybersecurity world. Whether it’s mastering Linux, Python, or learning through hands-on labs, I thrive in environments that challenge me to grow. This journey is not just about advancing my career—it’s about embracing the joy of learning and sharing that joy with others.
