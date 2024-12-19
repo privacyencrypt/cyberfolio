@@ -135,12 +135,6 @@ gallery:
   gallery_caption:
 
 gallery_images:
-  - alt: 'Together'
-    url: '/images/02-1.jpg'
-  - alt: 'Lifestyle'
-    url: '/images/02-2.jpg'
-  - alt: 'Friends'
-    url: '/images/02-3.jpg'
   <div class="gallery-box">
   <div class="gallery">
     <img src="/images/07-1.jpg" loading="lazy">
@@ -154,7 +148,8 @@ gallery_images:
     <img src="/images/04-1.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-  </div>
+</div>
+
 
 #-------------------------------
 # Newsletter Settings
