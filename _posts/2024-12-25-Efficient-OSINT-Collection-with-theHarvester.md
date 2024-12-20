@@ -2,7 +2,7 @@
 layout: post
 title: Efficient OSINT Collection with theHarvester
 date: 2024-06-19 15:01:35 +0300
-image: '/images/10.jpg'
+image: '/images/302.jpg'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---
 
