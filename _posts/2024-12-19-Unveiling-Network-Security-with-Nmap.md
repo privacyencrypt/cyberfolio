@@ -2,7 +2,7 @@
 layout: post
 title: Unveiling Network Security with Nmap
 date: 2024-12-19 15:01:35 +0300
-image: '/images/09.jpg'
+image: '/images/303.jpg'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---
 
