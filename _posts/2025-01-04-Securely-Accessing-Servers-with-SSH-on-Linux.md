@@ -2,7 +2,7 @@
 layout: post
 title: Securely Accessing Servers with SSH on Linux
 date: 2024-08-07 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/514.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 

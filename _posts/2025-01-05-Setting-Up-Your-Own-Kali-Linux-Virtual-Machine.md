@@ -2,7 +2,7 @@
 layout: post
 title: Setting Up Your Own Kali Linux Virtual Machine
 date: 2024-08-14 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/515.png'
 tags: [Cybersecurity, Virtualization, Tools]
 ---
 

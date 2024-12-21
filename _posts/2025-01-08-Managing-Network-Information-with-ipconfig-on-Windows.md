@@ -2,7 +2,7 @@
 layout: post
 title: Managing Network Information with ipconfig on Windows
 date: 2024-09-04 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/518.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 

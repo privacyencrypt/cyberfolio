@@ -2,7 +2,7 @@
 layout: post
 title: Tracing Network Paths with Traceroute in Linux
 date: 2024-07-17 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/511.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---
 

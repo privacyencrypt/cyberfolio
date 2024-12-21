@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Advanced DNS Queries with Dig
 date: 2024-08-28 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/517.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 

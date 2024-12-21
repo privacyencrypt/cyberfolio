@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Ping and Its Various Uses
 date: 2024-07-24 15:01:35 +0300
-image: '/images/501.png'
+image: '/images/512.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 
