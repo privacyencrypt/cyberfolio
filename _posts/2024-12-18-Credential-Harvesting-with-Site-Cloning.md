@@ -2,7 +2,7 @@
 layout: post
 title: Credential Harvesting with Site Cloning
 date: 2024-07-10 15:01:35 +0300
-image: '/images/304.jpg'
+image: '/images/501.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---
 

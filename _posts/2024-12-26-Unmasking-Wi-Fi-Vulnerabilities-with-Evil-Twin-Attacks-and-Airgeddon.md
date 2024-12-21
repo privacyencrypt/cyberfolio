@@ -2,7 +2,7 @@
 layout: post
 title: Unmasking Wi-Fi Vulnerabilities with Evil Twin Attacks and Airgeddon
 date: 2024-06-26 15:01:35 +0300
-image: '/images/10.jpg'
+image: '/images/509.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---
 
