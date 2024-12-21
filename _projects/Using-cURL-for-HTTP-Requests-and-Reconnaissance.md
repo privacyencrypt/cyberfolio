@@ -2,7 +2,7 @@
 title: Using cURL for HTTP Requests and Reconnaissance
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/410.jpg'
+image: '/images/410.png'
 ---
 # Using cURL for HTTP Requests and Reconnaissance
 

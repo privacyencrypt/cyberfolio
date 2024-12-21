@@ -2,7 +2,7 @@
 title: Automating SQL Injection Using SQLMap
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.jpg'
+image: '/images/406.png'
 ---
 # Lab 6: Automating SQL Injection Using SQLMap
 

@@ -2,7 +2,7 @@
 title: Scanning and Reconnaissance Using Nmap
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/402.jpg'
+image: '/images/402.png'
 ---
 # Lab 2: Scanning and Reconnaissance Using Nmap
 

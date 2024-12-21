@@ -2,7 +2,7 @@
 title: Information Gathering Using TheHarvester
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/408.jpg'
+image: '/images/408.png'
 ---
 # Information Gathering Using TheHarvester
 

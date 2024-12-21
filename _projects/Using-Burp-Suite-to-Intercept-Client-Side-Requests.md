@@ -2,7 +2,7 @@
 title: Using Burp Suite to Intercept Client-Side Requests
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/407.jpg'
+image: '/images/407.png'
 ---
 # Lab 7: Using Burp Suite to Intercept Client-Side Requests
 
