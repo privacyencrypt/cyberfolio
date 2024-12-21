@@ -2,7 +2,7 @@
 title: Password Cracking with Hydra
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/project-2.jpg'
+image: '/images/404.jpg'
 ---
 # Lab 4: Password Cracking with Hydra
 

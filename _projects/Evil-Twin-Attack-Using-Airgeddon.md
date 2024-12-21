@@ -2,7 +2,7 @@
 title: Evil Twin Attack Using Airgeddon
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/project-2.jpg'
+image: '/images/409.jpg'
 ---
 # Evil Twin Attack Using Airgeddon
 

@@ -2,7 +2,7 @@
 title: Conducting a Cross-Site Scripting (XSS) Attack
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/project-2.jpg'
+image: '/images/405.jpg'
 ---
 # Lab 5: Conducting a Cross-Site Scripting (XSS) Attack
 

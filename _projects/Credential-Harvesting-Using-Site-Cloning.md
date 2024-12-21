@@ -2,7 +2,7 @@
 title: Credential Harvesting Using Site Cloning
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/project-2.jpg'
+image: '/images/401.jpg'
 ---
 
 # Credential Harvesting Using Site Cloning
