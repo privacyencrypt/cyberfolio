@@ -2,7 +2,7 @@
 title: Using nslookup for DNS Queries
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.png'
+image: '/images/416.png'
 ---
 # Using nslookup for DNS Queries
 

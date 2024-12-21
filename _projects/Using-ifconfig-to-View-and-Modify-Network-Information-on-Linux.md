@@ -2,7 +2,7 @@
 title: Using ifconfig to View and Modify Network Information on Linux
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.png'
+image: '/images/419.png'
 ---
 # Using ifconfig to View and Modify Network Information on Linux
 

@@ -2,7 +2,7 @@
 title: Using ipconfig to View and Modify Network Information on Windows
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.png'
+image: '/images/418.png'
 ---
 # Using ipconfig to View and Modify Network Information on Windows
 

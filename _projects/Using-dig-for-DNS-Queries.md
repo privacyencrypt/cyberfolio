@@ -2,7 +2,7 @@
 title: Using dig for DNS Queries
 date: 2024-05-12 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.png'
+image: '/images/417.png'
 ---
 # Using dig for DNS Queries
 
