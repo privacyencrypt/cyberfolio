@@ -131,7 +131,7 @@ gallery:
   enable: true
   gallery_title: Certifications <em>My Path To Cyber Enlightenment</em> # You can add an 'em' element to highlight text.
   gallery_description: The certifications I’ve earned reflect my dedication to mastering cybersecurity and my commitment to lifelong learning. Each marks a step forward, showcasing my knowledge and determination to stay ahead in this ever-changing field. This is just the beginning—I’m driven to expand this list, embrace new challenges, and grow with the dynamic world of cybersecurity.
-  gallery_caption: Certifications: Milestones of mastery, stepping stones to the future.
+  gallery_caption: "Certifications: Milestones of mastery, stepping stones to the future."
 gallery_images:
   - alt: 'abstract-a'
     url: '/images/97.jpg'
