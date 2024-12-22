@@ -72,9 +72,8 @@ projects:
 # Testimonials Settings
 testimonials:
   enable: true
-  testimonials_title: Trusted by <em>Professionals</em> # You can add an 'em' element to highlight text.
-  testimonials_description: Join our community of cybersecurity professionals where you can sharpen your skills, defend against evolving threats, and secure a safer digital future.
-
+  testimonials_title: SOC Analyst <em>Tool Kit</em> # You can add an 'em' element to highlight text.
+  testimonials_description: These are just a few of the powerful tools leveraged as a SOC analyst. Staying one step ahead of the adversary is the name of the game, and mastering these technologies ensures we’re always ready to defend against evolving threats.
 testimonial-items:
   - name: Amelia Jones
     image: "/images/client-1.jpg"
