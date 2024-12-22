@@ -45,12 +45,7 @@ sidebar:
   sidebar_title: Mastering Cybersecurity <em>Interactive Labs,</em> <em>Security Insights,</em> <em>Defense Strategies</em>. # You can add an 'em' element to highlight text.
   sidebar_description: Welcome to a journey of discovery and growth in the ever-evolving field of cybersecurity. True understanding lies not in simply acquiring knowledge, but in sharing it to empower and inspire others. This repository is designed to be more than a collection of insights—it’s a resource and a guide for those seeking to learn, practice, and excel, fostering a collaborative path toward mastery.
 
-
-
-
-
-
-
+#-------------------------------
 # Social Links
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
