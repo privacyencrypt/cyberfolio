@@ -19,8 +19,8 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about/'
-    - title: 'Elements'
-      url: '/elements/'
+    - title: 'Mastery'
+      url: '/mastery/'
 
 
 # Call to action button
