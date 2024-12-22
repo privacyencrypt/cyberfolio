@@ -140,7 +140,8 @@ gallery_images:
     url: '/images/certc.png'
   - alt: 'certificate-d'
     url: '/images/certd.png'
-
+  - alt: 'certificate-e'
+    url: '/images/certe.png'
 
 # Newsletter Settings
 mailchimp:
