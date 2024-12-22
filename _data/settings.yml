@@ -46,12 +46,6 @@ sidebar:
   sidebar_description: Welcome to a journey of discovery and growth in the ever-evolving field of cybersecurity. True understanding lies not in simply acquiring knowledge, but in sharing it to empower and inspire others. This repository is designed to be more than a collection of insights—it’s a resource and a guide for those seeking to learn, practice, and excel, fostering a collaborative path toward mastery.
 
 
-
-
-
-
-
-
 # Social Links
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
@@ -71,7 +65,7 @@ social:
 projects:
   enable: true
   projects_title: Cyber Labs <em>Showcase</em> # You can add an 'em' element to highlight text.
-  projects_description: Engage in hands-on practice through guided walkthroughs that replicate real-world cybersecurity scenarios. Each exercise is carefully designed to immerse you in the tools, techniques, and challenges faced by professionals. These simulations help you develop technical expertise, sharpen problem-solving skills, and build the confidence to navigate the ever-changing cybersecurity landscape. This is where theory meets practice, preparing you for real-world success. ### **Cyber Labs Showcase**
+  projects_description: Engage in hands-on practice through guided walkthroughs that replicate real-world cybersecurity scenarios. Each exercise is carefully designed to immerse you in the tools, techniques, and challenges faced by professionals. These simulations help you develop technical expertise, sharpen problem-solving skills, and build the confidence to navigate the ever-changing cybersecurity landscape.
 
 
 #-------------------------------
