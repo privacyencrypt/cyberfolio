@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Certificates
 permalink: /Certificates/
 image: '/images/15.jpg'
 ---
