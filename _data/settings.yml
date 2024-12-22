@@ -104,7 +104,7 @@ testimonial-items:
     designation : Unified Security Platform
     content : AlienVault USM combines SIEM, asset discovery, and vulnerability management into a single platform. It simplifies threat detection and response, making it ideal for entry-level SOC analysts.
   - name: QRadar (IBM)
-    image: "/images/qadar.png"
+    image: "/images/qradar.png"
     designation : Advanced SIEM Solution
     content : IBM QRadar is a comprehensive SIEM solution that consolidates threat data from across the network. It uses advanced analytics to prioritize incidents, allowing analysts to respond to the most critical threats first.
   - name: Microsoft Defender
