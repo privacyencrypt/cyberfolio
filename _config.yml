@@ -27,7 +27,7 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /projects/:slug
+    permalink: /project/:slug
 
 # Pages Path
 defaults:
