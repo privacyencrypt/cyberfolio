@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Network Information with ifconfig on Linux
-date: 2025-01-09 15:01:35 +0300
+date: 2024-12-19 15:01:35 +0300
 image: '/images/519.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
