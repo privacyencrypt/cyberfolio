@@ -27,6 +27,7 @@ Security+ was the foundational step that introduced me to the core principles of
 ***
 
 Cloud+ expanded my expertise into the rapidly growing field of cloud computing, focusing on architecture, security, and performance optimization. I gained hands-on experience in managing hybrid and multi-cloud environments, identifying vulnerabilities, and implementing secure cloud-based solutions. This certification also deepened my understanding of how to balance scalability with security, preparing me to address the unique challenges of securing cloud infrastructures in an evolving digital landscape.
+
 ![iPhone](/images/certb.png)
 
 ***
