@@ -1,6 +1,6 @@
 ---
 title: Using Netcat for Networking Tasks and Security Testing
-date: 2023-12-06 08:01:35 +0300
+date: 2023-12-22 08:01:35 +0300
 subtitle: Product Design
 image: '/images/522.png'
 ---
