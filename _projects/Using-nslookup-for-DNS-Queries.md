@@ -1,6 +1,6 @@
 ---
 title: Using nslookup for DNS Queries
-date: 2024-05-12 08:01:35 +0300
+date: 2025-01-06 08:01:35 +0300
 subtitle: Product Design
 image: '/images/416.png'
 ---

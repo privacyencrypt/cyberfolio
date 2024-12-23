@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding DNS Queries with NSLookup
-date: 2024-08-21 15:01:35 +0300
+date: 2025-01-06 15:01:35 +0300
 image: '/images/516.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

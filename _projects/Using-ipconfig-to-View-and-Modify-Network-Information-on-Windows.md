@@ -1,6 +1,6 @@
 ---
 title: Using ipconfig to View and Modify Network Information on Windows
-date: 2024-05-12 08:01:35 +0300
+date: 2025-01-08 08:01:35 +0300
 subtitle: Product Design
 image: '/images/418.png'
 ---

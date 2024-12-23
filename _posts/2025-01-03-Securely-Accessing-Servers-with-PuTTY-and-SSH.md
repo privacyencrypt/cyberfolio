@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Securely Accessing Servers with PuTTY and SSH
-date: 2024-07-31 15:01:35 +0300
+date: 2025-01-03 15:01:35 +0300
 image: '/images/513.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

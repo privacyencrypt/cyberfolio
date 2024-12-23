@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Client-Side Interception with Burp Suite
-date: 2024-06-12 15:01:35 +0300
+date: 2024-12-24 15:01:35 +0300
 image: '/images/507.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---

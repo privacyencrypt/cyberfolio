@@ -1,6 +1,6 @@
 ---
 title: How to SSH into a Server from a Linux Machine
-date: 2024-05-12 08:01:35 +0300
+date: 2025-01-04 08:01:35 +0300
 subtitle: Product Design
 image: '/images/414.png'
 ---

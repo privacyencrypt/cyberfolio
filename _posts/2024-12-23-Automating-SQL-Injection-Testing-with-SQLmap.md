@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating SQL Injection Testing with SQLmap
-date: 2024-06-05 15:01:35 +0300
+date: 2024-12-23 15:01:35 +0300
 image: '/images/506.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---

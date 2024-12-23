@@ -1,6 +1,6 @@
 ---
 title: Using Traceroute in Linux
-date: 2024-05-12 08:01:35 +0300
+date: 2025-01-01 08:01:35 +0300
 subtitle: Product Design
 image: '/images/411.png'
 ---

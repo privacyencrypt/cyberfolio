@@ -1,6 +1,6 @@
 ---
 title: How to SSH into a Server from a Windows Machine Using PuTTY
-date: 2024-05-12 08:01:35 +0300
+date: 2025-01-03 08:01:35 +0300
 subtitle: Product Design
 image: '/images/413.png'
 ---
