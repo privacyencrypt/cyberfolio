@@ -133,7 +133,7 @@ faq:
 faq_items:
   - title: What inspired you to pursue a career in cybersecurity?
     description: The ever-evolving nature of cybersecurity and the opportunity to protect individuals and organizations from threats drew me to this field. I enjoy solving complex problems, staying ahead of adversaries, and knowing that my work contributes to a safer digital world.
-  - title: Can you share a time when you successfully solved a challenging security problem?
+  - title: Can you share a time when you solved a challenging security problem?
     description: During a hands-on lab, I identified a misconfigured server that was vulnerable to an exploit chain. By systematically analyzing the system, I not only uncovered the flaw but also documented a remediation plan. This experience reinforced the importance of attention to detail and a methodical approach to problem-solving.
   - title: How do you stay current with the latest cybersecurity trends and technologies?
     description: I actively engage in continuous learning through certifications, industry blogs, and online platforms like TryHackMe and Hack The Box. Additionally, I participate in cybersecurity forums and attend webinars to stay informed about emerging threats and innovative defense strategies.
