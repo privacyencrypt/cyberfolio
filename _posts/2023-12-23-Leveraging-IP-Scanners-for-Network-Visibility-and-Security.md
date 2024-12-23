@@ -2,7 +2,7 @@
 layout: post
 title: Leveraging IP Scanners for Network Visibility and Security
 date: 2024-10-09 15:01:35 +0300
-image: '/images/502.png'
+image: '/images/423.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 

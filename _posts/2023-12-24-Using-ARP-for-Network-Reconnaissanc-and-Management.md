@@ -2,7 +2,7 @@
 layout: post
 title: Using ARP for Network Reconnaissance and Management
 date: 2024-10-16 15:01:35 +0300
-image: '/images/502.png'
+image: '/images/424.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
 

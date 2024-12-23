@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Directory Traversal Vulnerabilities
 date: 2024-11-06 15:01:35 +0300
-image: '/images/502.png'
+image: '/images/427.png'
 tags: [Cybersecurity, Web Security, Tools]
 ---
 

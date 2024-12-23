@@ -2,7 +2,7 @@
 layout: post
 title: Gathering DNS Information with dnsenum
 date: 2024-11-13 15:01:35 +0300
-image: '/images/502.png'
+image: '/images/428.png'
 tags: [Cybersecurity, DNS, Tools]
 ---
 
