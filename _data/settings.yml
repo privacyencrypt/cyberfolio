@@ -131,24 +131,18 @@ faq:
   faq_description: Find solutions to common queries here.
 
 faq_items:
-  - title: What are your main areas of expertise in cyber security?
-    description: My specialization includes threat detection, incident response, and vulnerability assessment, as well as researching and testing security measures to protect systems and data.
-
-  - title: Can you provide examples of your work?
-    description: Yes, on my website, you can find a portfolio showcasing examples of my cybersecurity projects, interactive labs, and certifications aligned with industry standards.
-
-  - title: What is your experience with various hardware and software?
-    description: I have extensive experience working with various systems, including network infrastructures, servers, endpoint devices, security software, and hardware solutions.
-
-  - title: What specific tools do you use in your working environment?
-    description: In my working environment, I utilize a wide range of cybersecurity tools, including SIEM systems (such as Splunk and ELK Stack), network scanners (like Nmap and Wireshark), vulnerability assessment tools (such as Nessus and OpenVAS), and endpoint security solutions (like CrowdStrike and SentinelOne), to name just a few.
-
-  - title: What certifications and qualifications do you bring to the table?
-    description: I hold certifications in Google Cybersecurity, CompTIA Security+, CySA+, Cloud Security, and AWS. In addition, I have a Master's degree in Education, which complements my ability to communicate complex concepts effectively. As a lifelong learner, I am continuously expanding my expertise and look forward to adding more certifications and skills to this growing list.
-
-  - title: How can I contact you to discuss my project?
-    description: You can contact me through the contact form on my website or directly via email. I'm always open to new projects and ready to discuss your security needs.
-
+  - title: What inspired you to pursue a career in cybersecurity?
+    description: The ever-evolving nature of cybersecurity and the opportunity to protect individuals and organizations from threats drew me to this field. I enjoy solving complex problems, staying ahead of adversaries, and knowing that my work contributes to a safer digital world.
+  - title: Can you share a time when you successfully solved a challenging security problem?
+    description: During a hands-on lab, I identified a misconfigured server that was vulnerable to an exploit chain. By systematically analyzing the system, I not only uncovered the flaw but also documented a remediation plan. This experience reinforced the importance of attention to detail and a methodical approach to problem-solving.
+  - title: How do you stay current with the latest cybersecurity trends and technologies?
+    description: I actively engage in continuous learning through certifications, industry blogs, and online platforms like TryHackMe and Hack The Box. Additionally, I participate in cybersecurity forums and attend webinars to stay informed about emerging threats and innovative defense strategies.
+  - title: What tools or frameworks are you most proficient with?
+    description: I am highly proficient with tools like Splunk, Wireshark, Nessus, and Burp Suite. These tools allow me to monitor systems, analyze traffic, identify vulnerabilities, and secure applications. I also have experience with frameworks like MITRE ATT&CK, which enhances my ability to map adversary behavior.
+  - title: How do you approach working under pressure during incidents or deadlines?
+    description: I prioritize tasks based on severity and impact, ensuring critical issues are addressed first. Remaining calm and methodical allows me to analyze the situation effectively and deliver results. I also document each step to ensure clarity and transparency for post-incident reviews.
+  - title: What steps do you take to ensure clear communication in technical reports?
+    description: I focus on tailoring reports to the audience, balancing technical accuracy with accessibility. Whether presenting to technical teams or non-technical stakeholders, I aim to provide concise, actionable insights supported by clear visuals and well-structured documentation.
 
 #-------------------------------
 # Gallery Settings
