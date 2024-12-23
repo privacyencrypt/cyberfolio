@@ -1,6 +1,6 @@
 ---
 title: Using hping for Security Auditing and Testing of Network Devices
-date: 2025-01-10 08:01:35 +0300
+date: 2024-12-20 08:01:35 +0300
 subtitle: Product Design
 image: '/images/420.png'
 ---

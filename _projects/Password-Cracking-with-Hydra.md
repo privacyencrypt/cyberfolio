@@ -1,6 +1,6 @@
 ---
 title: Password Cracking with Hydra
-date: 2024-12-21 08:01:35 +0300
+date: 2024-12-04 08:01:35 +0300
 subtitle: Product Design
 image: '/images/404.png'
 ---

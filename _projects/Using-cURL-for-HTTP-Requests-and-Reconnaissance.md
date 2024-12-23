@@ -1,6 +1,6 @@
 ---
 title: Using cURL for HTTP Requests and Reconnaissance
-date: 2024-12-27 08:01:35 +0300
+date: 2024-12-10 08:01:35 +0300
 subtitle: Product Design
 image: '/images/410.png'
 ---

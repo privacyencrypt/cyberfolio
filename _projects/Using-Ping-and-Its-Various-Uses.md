@@ -1,6 +1,6 @@
 ---
 title: Using Ping and Its Various Uses
-date: 2025-01-02 08:01:35 +0300
+date: 2024-12-12 08:01:35 +0300
 subtitle: Product Design
 image: '/images/412.png'
 ---
