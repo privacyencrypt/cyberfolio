@@ -2,7 +2,7 @@
 title: Using the `route` Command to Display Network Information on Linux
 date: 2023-12-06 08:01:35 +0300
 subtitle: Product Design
-image: '/images/406.png'
+image: '/images/525.png'
 ---
 # Using the `route` Command to Display Network Information on Linux
 
