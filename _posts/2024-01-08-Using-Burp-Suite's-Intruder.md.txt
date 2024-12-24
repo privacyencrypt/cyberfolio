@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Burp Suite’s Intruder for Advanced Security Testing
-date: date: 2024-01-08 15:01:35 +0300
+date: 2024-01-08 15:01:35 +0300
 image: '/images/908.png'
 tags: [Cybersecurity, Web Security, Tools]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding and Performing Manual SQL Injection
-date: date: 2024-01-09 15:01:35 +0300
+date: 2024-01-09 15:01:35 +0300
 image: '/images/909.png'
 tags: [Cybersecurity, Web Security, Exploits]
 ---

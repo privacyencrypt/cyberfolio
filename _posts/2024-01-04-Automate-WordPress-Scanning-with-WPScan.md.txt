@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating WordPress Scanning with WPScan
-date: date: 2024-01-04 15:01:35 +0300
+date: 2024-01-04 15:01:35 +0300
 image: '/images/904.png'
 tags: [Cybersecurity, Web Security, Tools]
 ---

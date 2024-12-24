@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding and Preventing Cross-Site Request Forgery (CSRF)
-date: date: 2024-01-06 15:01:35 +0300
+date: 2024-01-06 15:01:35 +0300
 image: '/images/906.png'
 tags: [Cybersecurity, Web Security, Attacks]
 ---

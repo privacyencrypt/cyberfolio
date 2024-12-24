@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spoofing Your MAC Address with macchanger
-date: date: 2024-01-02 15:01:35 +0300
+date: 2024-01-02 15:01:35 +0300
 image: '/images/902.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
