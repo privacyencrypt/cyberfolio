@@ -1,6 +1,6 @@
 ---
 title: Using dig for DNS Queries
-date: 2024-12-17 08:01:35 +0300
+date: 2023-12-17 08:01:35 +0300
 subtitle: Product Design
 image: '/images/417.png'
 ---

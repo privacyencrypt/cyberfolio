@@ -1,6 +1,6 @@
 ---
 title: Information Gathering Using TheHarvester
-date: 2024-12-08 08:01:35 +0300
+date: 2023-12-08 08:01:35 +0300
 subtitle: Product Design
 image: '/images/408.png'
 ---

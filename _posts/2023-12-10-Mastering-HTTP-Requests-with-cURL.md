@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering HTTP Requests with cURL
-date: 2024-12-10 15:01:35 +0300
+date: 2023-12-10 15:01:35 +0300
 image: '/images/510.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---

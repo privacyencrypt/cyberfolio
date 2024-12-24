@@ -1,6 +1,6 @@
 ---
 title: Setting Up Your Own Kali Linux Virtual Machine
-date: 2024-12-15 08:01:35 +0300
+date: 2023-12-15 08:01:35 +0300
 subtitle: Product Design
 image: '/images/415.png'
 ---

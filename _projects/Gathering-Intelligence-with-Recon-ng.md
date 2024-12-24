@@ -1,6 +1,6 @@
 ---
 title: Gathering Intelligence with Recon-ng
-date: 2024-12-03 08:01:35 +0300
+date: 2023-12-03 08:01:35 +0300
 subtitle: Product Design
 image: '/images/403.png'
 ---

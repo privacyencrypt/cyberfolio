@@ -1,6 +1,6 @@
 ---
 title: Scanning and Reconnaissance Using Nmap
-date: 2024-12-02 08:01:35 +0300
+date: 2023-12-02 08:01:35 +0300
 subtitle: Product Design
 image: '/images/402.png'
 ---

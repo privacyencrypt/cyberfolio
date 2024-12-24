@@ -1,6 +1,6 @@
 ---
 title: Conducting a Cross-Site Scripting (XSS) Attack
-date: 2024-12-05 08:01:35 +0300
+date: 2023-12-05 08:01:35 +0300
 subtitle: Product Design
 image: '/images/405.png'
 ---

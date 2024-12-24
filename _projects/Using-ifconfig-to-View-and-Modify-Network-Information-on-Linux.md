@@ -1,6 +1,6 @@
 ---
 title: Using ifconfig to View and Modify Network Information on Linux
-date: 2024-12-19 08:01:35 +0300
+date: 2023-12-19 08:01:35 +0300
 subtitle: Product Design
 image: '/images/419.png'
 ---

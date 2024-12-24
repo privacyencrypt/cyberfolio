@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cracking Credentials with Hydra
-date: 2024-12-04 15:01:35 +0300
+date: 2023-12-04 15:01:35 +0300
 image: '/images/504.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---

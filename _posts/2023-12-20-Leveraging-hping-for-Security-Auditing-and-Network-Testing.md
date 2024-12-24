@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leveraging hping for Security Auditing and Network Testing
-date: 2024-12-20 15:01:35 +0300
+date: 2023-12-20 15:01:35 +0300
 image: '/images/520.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

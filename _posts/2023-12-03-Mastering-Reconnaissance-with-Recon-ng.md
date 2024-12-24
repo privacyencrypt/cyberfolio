@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Reconnaissance with Recon-ng
-date: 2024-12-03 15:01:35 +0300
+date: 2023-12-03 15:01:35 +0300
 image: '/images/503.png'
 tags: [Cybersecurity, Penetration Testing, Tools]
 ---

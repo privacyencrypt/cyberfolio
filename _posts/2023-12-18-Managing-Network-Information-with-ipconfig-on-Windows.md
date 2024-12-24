@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Network Information with ipconfig on Windows
-date: 2024-12-18 15:01:35 +0300
+date: 2023-12-18 15:01:35 +0300
 image: '/images/518.png'
 tags: [Cybersecurity, Networking, Tools]
 ---
