@@ -2,7 +2,7 @@
 layout: post
 title: Understanding and Mitigating Broken Access Control
 date: date: 2024-01-10 15:01:35 +0300
-image: '/images/810.png'
+image: '/images/910.png'
 tags: [Cybersecurity, Web Security, Vulnerabilities]
 ---
 

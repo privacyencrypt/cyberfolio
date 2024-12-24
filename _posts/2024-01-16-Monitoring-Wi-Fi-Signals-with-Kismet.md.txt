@@ -2,7 +2,7 @@
 layout: post
 title: Monitoring Wi-Fi Signals with Kismet
 date: date: 2024-01-16 15:01:35 +0300
-image: '/images/816.png'
+image: '/images/916.png'
 tags: [Cybersecurity, Wireless Security, Tools]
 ---
 

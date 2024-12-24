@@ -2,7 +2,7 @@
 layout: post
 title: Using Gobuster to Discover Directories and Files
 date: date: 2024-01-07 15:01:35 +0300
-image: '/images/807.png'
+image: '/images/907.png'
 tags: [Cybersecurity, Web Security, Tools]
 ---
 

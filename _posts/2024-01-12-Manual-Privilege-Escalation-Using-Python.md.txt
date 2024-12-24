@@ -2,7 +2,7 @@
 layout: post
 title: Manual Privilege Escalation Using Python
 date: date: 2024-01-12 15:01:35 +0300
-image: '/images/812.png'
+image: '/images/912.png'
 tags: [Cybersecurity, Privilege Escalation, Python]
 ---
 
