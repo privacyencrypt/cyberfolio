@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacking WPS with Reaver: A Practical Guide
+title: "Hacking WPS with Reaver: A Practical Guide"
 date: 2024-01-05 15:01:35 +0300
 image: '/images/905.png'
 tags: [Cybersecurity, Wireless Security, Tools]
