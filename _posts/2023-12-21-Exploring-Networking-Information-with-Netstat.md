@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Networking Information with Netstat
-date: 2024-09-25 15:01:35 +0300
+date: 2023-12-21 15:01:35 +0300
 image: '/images/421.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

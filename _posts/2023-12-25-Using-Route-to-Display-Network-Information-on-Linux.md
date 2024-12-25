@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Route to Display Network Information on Linux
-date: 2024-10-23 15:01:35 +0300
+date: 2023-12-25 15:01:35 +0300
 image: '/images/425.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

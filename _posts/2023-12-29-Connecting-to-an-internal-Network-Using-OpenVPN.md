@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connecting to an Internal Network Using OpenVPN
-date: 2024-11-20 15:01:35 +0300
+date: 2023-12-29 15:01:35 +0300
 image: '/images/429.png'
 tags: [Cybersecurity, VPN, Tools]
 ---

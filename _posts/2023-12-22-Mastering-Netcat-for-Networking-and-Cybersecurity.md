@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Netcat for Networking and Cybersecurity
-date: 2024-10-02 15:01:35 +0300
+date: 2023-12-22 15:01:35 +0300
 image: '/images/422.png'
 tags: [Cybersecurity, Networking, Tools]
 ---

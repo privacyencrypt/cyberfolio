@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cracking Passwords with Hashcat
-date: 2024-11-27 15:01:35 +0300
+date: 2023-12-30 15:01:35 +0300
 image: '/images/430.png'
 tags: [Cybersecurity, Password Cracking, Tools]
 ---
