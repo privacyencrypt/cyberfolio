@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fuzzing with Spike: Enhancing Security Testing
+title: "Fuzzing with Spike: Enhancing Security Testing"
 date: 2024-01-01 15:01:35 +0300
 image: '/images/901.png'
 tags: [Cybersecurity, Fuzzing, Tools]
