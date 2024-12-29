@@ -107,6 +107,12 @@ This blog post is accompanied by a hands-on lab walkthrough where you’ll learn
 
 The lab provides step-by-step guidance and practical insights into the mechanics of credential harvesting. Don’t miss this opportunity to enhance your skills.
 
+
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
+
+
 ---
 
 > "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
