@@ -107,10 +107,6 @@ This blog post is accompanied by a hands-on lab walkthrough where you’ll learn
 
 The lab provides step-by-step guidance and practical insights into the mechanics of credential harvesting. Don’t miss this opportunity to enhance your skills.
 
-
-{% raw %}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-{% endraw %}
 ---
 
 > "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
@@ -123,3 +119,6 @@ The lab provides step-by-step guidance and practical insights into the mechanics
 Credential harvesting using site cloning is a powerful technique to simulate real-world attacks and test an organization’s defenses. By understanding the methods attackers use, penetration testers can help strengthen security measures and protect sensitive data.
 
 The accompanying hands-on lab walkthrough provides practical experience with site cloning tools and techniques, helping testers gain valuable insights and improve their skills. Dive into the lab to learn how to identify and mitigate credential harvesting attacks effectively.
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
