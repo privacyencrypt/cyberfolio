@@ -11,7 +11,6 @@ Credential harvesting is a common tactic used by attackers to collect usernames,
 {% raw %}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="40" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 {% endraw %}
-
 ---
 
 ## What is Credential Harvesting?
