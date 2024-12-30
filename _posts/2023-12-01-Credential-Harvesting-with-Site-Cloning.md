@@ -8,9 +8,6 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Credential harvesting is a common tactic used by attackers to collect usernames, passwords, and other sensitive information from unsuspecting users. By leveraging **site cloning**, attackers can create convincing replicas of legitimate websites to trick users into entering their credentials. This blog post explores the concept of credential harvesting, the tools and techniques used for site cloning, and how penetration testers can use these insights ethically to identify and mitigate such attacks. Be sure to follow the **hands-on lab walkthrough** for a practical demonstration.
 
-
-
-
 {% raw %}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 {% endraw %}
