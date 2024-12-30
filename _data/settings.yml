@@ -121,7 +121,7 @@ testimonial-items:
 # Blog Section Settings
 blog:
   enable: true
-  blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
+  blog_title: Latest <em>Articles</em> & <em>Podcasts</em> # You can add an 'em' element to highlight text.
   blog_description: Your portal to in-depth articles and podcasts exploring key cybersecurity topics, emerging trends, and evolving threats. Each article provides detailed analysis and is paired with a hands-on walkthrough lab to apply concepts in real-world scenarios. Meanwhile, our podcasts offer engaging discussions and expert insights to further enhance your understanding. By combining analysis, practical exercises, and thought-provoking audio content, these resources are designed to equip you with the knowledge and skills to confidently navigate the ever-changing cybersecurity landscape.
   #-------------------------------
 # Faq (Frequently asked questions) Settings
