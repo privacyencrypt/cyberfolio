@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **ipconfig** command is a vital tool for managing and troubleshooting network configurations on Windows systems. It allows users to view, modify, and diagnose network settings, making it an essential utility for IT professionals and cybersecurity practitioners. This blog post explores how to use ipconfig effectively, its key features, and its applications in network management. For hands-on experience, follow the accompanying **lab walkthrough** to enhance your practical skills.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/28Eb8C0USpDBzRzWaoEs2X?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is ipconfig?

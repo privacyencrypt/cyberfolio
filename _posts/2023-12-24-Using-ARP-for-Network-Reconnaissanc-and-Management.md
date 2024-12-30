@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Address Resolution Protocol (ARP)** is an essential component of networking, responsible for mapping IP addresses to MAC addresses within a local network. The ARP command is a powerful utility for network reconnaissance and troubleshooting, allowing professionals to view and manage the ARP table. This blog post explores how ARP works, its applications in cybersecurity, and how to use the ARP command effectively. Follow the included **lab walkthrough** for practical experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5otyHmCyWzYiPPuq6cznzM?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is ARP?

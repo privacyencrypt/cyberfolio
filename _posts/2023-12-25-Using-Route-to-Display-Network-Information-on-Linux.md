@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **route** command is a fundamental tool for displaying and manipulating IP routing tables on Linux systems. It allows users to understand how packets are routed within a network and make adjustments to improve connectivity. This blog post explores the route command’s functionality, its applications in cybersecurity, and its use for troubleshooting and network configuration. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7wEUETYVMURm0PnYQQiYP9?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is the Route Command?

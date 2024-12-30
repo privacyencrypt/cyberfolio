@@ -8,6 +8,9 @@ tags: [Cybersecurity, Wireless Security, Tools]
 
 **Wifite** is a powerful tool for automating wireless network attacks, specifically targeting WPS-enabled networks. It simplifies the process of auditing wireless security by leveraging tools like Reaver and Bully to exploit WPS vulnerabilities. This blog post explores Wifite’s functionality, its applications in cybersecurity, and step-by-step guidance for testing WPS network security. Follow the included **lab walkthrough** for hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7gcOOLMvVxzI02bUREMN1a?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Wifite?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Dig** (Domain Information Groper) command is a powerful and versatile tool for querying Domain Name System (DNS) servers. Widely regarded as the Swiss Army knife of DNS diagnostics, Dig provides detailed information about DNS records, domain configurations, and server responses. This blog post explores how to use Dig effectively, its key features, and its applications in cybersecurity and networking. Be sure to follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2B0XQVWLmvfrQfPb1rkQOt?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Dig?

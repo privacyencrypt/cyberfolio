@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **NSLookup** command is a powerful utility for querying the Domain Name System (DNS) to gather information about domain names, IP addresses, and DNS records. It is an essential tool for cybersecurity professionals and network administrators to troubleshoot DNS issues, map networks, and gather intelligence. In this blog post, we’ll dive into how to use NSLookup effectively, its applications in cybersecurity, and best practices. For hands-on practice, follow the included **lab walkthrough** to gain practical experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2mzjtcP7DWuZhzlg0SrJMg?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is NSLookup?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Netcat** (nc) command is often referred to as the Swiss Army knife of networking. It is a versatile tool for reading, writing, and analyzing data across network connections using TCP or UDP. Netcat is invaluable for penetration testers, network administrators, and cybersecurity professionals. This blog post explores Netcat’s features, its applications in networking and security, and common use cases. Be sure to follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3rfUYgCevDMsGgo7pw4Ft9?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Netcat?

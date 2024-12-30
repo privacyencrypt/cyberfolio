@@ -8,6 +8,9 @@ tags: [Cybersecurity, Fuzzing, Tools]
 
 **Spike** is a robust and versatile fuzzing framework widely used for identifying vulnerabilities in network protocols and applications. By generating malformed or unexpected inputs, Spike tests how a system handles erroneous data, exposing potential security weaknesses. This blog post provides an in-depth look at Spike, its applications in fuzzing, and step-by-step guidance for incorporating it into your cybersecurity testing strategy. Follow the included **lab walkthrough** for hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3StAAU1abb9CtDOBF3KDji?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Spike?

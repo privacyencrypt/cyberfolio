@@ -8,6 +8,9 @@ tags: [Cybersecurity, Exploits, Reverse Shells]
 
 **Reverse shells** are a common technique used in penetration testing to gain remote access to a compromised system. By exploiting file upload vulnerabilities, attackers can upload malicious scripts that establish a reverse shell connection. This blog post explores how file upload vulnerabilities can be exploited, the mechanics of reverse shells, and methods to prevent such attacks. Follow the included **lab walkthrough** for hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1LeIR7ILKNvxpeWll0d6zG?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is a Reverse Shell?

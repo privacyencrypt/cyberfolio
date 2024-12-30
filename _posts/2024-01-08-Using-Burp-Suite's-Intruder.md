@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Tools]
 
 **Burp Suite's Intruder** is a powerful tool for automated and customized attack simulations. It enables cybersecurity professionals to test web applications for vulnerabilities, such as injection flaws, authentication weaknesses, and business logic errors. This blog post explores the capabilities of Intruder, its applications in penetration testing, and step-by-step instructions for leveraging its features effectively. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3GIBBSBFCZcqPopstFkXVH?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Burp Suite’s Intruder?

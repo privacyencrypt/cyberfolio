@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Netstat** (Network Statistics) command is a versatile utility for monitoring and analyzing network connections and statistics. It provides insights into active connections, listening ports, and routing tables, making it indispensable for network administrators and cybersecurity professionals. This blog post delves into Netstat’s features, its applications in networking and security, and common use cases. Be sure to follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3R5b9ALYC5FKEc66WFSk9q?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Netstat?

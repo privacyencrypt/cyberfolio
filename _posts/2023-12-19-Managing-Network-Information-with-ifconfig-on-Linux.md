@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **ifconfig** command is a classic utility for managing and troubleshooting network interfaces on Linux systems. Although it has been largely replaced by newer tools like `ip`, ifconfig remains relevant for many distributions and is an essential tool for learning about network configuration. This blog post explores how to use ifconfig effectively, its key features, and its applications in network management. For hands-on experience, follow the accompanying **lab walkthrough** to enhance your practical skills.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6zBHJfpvJQnS2EH8sIABaY?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is ifconfig?

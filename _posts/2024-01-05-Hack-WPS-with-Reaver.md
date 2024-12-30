@@ -8,6 +8,9 @@ tags: [Cybersecurity, Wireless Security, Tools]
 
 **Reaver** is a widely-used tool for exploiting vulnerabilities in Wi-Fi Protected Setup (WPS), a feature designed to simplify the configuration of wireless networks. By targeting WPS PINs, Reaver can recover WPA/WPA2 passphrases, exposing potential security flaws in wireless networks. This blog post explores Reaver’s functionality, its applications in cybersecurity, and step-by-step guidance for ethically testing WPS vulnerabilities. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3XfNv7czeIqx2M4DL7eBLq?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Reaver?

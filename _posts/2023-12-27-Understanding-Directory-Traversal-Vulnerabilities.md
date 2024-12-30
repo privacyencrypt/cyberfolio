@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Tools]
 
 **Directory Traversal** is a common web vulnerability that allows attackers to access files and directories stored outside the intended web root directory. Exploiting this flaw can lead to the disclosure of sensitive information, including configuration files, credentials, and application data. This blog post explores the mechanics of directory traversal, its implications for cybersecurity, and practical steps to detect and mitigate this vulnerability. Follow the included **lab walkthrough** for hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6POJoAS85BNRA9pV3fE8zc?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Directory Traversal?

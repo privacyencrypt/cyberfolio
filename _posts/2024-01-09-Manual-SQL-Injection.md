@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Exploits]
 
 **SQL Injection (SQLi)** is one of the most common and dangerous vulnerabilities in web applications. It occurs when user inputs are improperly sanitized, allowing attackers to inject malicious SQL statements into queries. Manual SQL Injection techniques provide insight into exploiting these vulnerabilities without relying on automated tools. This blog post explores SQLi, its risks, and detailed steps for manual exploitation. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1rh3zn53JhqygSbHcMrMOS?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is SQL Injection?

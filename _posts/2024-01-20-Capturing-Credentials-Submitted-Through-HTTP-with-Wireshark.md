@@ -8,6 +8,9 @@ tags: [Cybersecurity, Network Security, Tools]
 
 **Wireshark** is a widely-used network protocol analyzer that enables cybersecurity professionals to monitor and analyze network traffic. One of its applications is capturing sensitive data, such as credentials submitted over unencrypted HTTP connections. This blog post explores how to use Wireshark for capturing HTTP credentials, its role in cybersecurity, and step-by-step instructions for ethical testing. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2qky2QeLqxuXRNRyBxJwW6?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Wireshark?

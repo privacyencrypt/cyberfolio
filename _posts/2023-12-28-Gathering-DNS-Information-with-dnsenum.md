@@ -8,6 +8,9 @@ tags: [Cybersecurity, DNS, Tools]
 
 **dnsenum** is a powerful tool used for DNS enumeration, a critical phase in reconnaissance for penetration testing and network mapping. By gathering DNS information, cybersecurity professionals can identify subdomains, hostnames, and other potential entry points into a target network. This blog post delves into the capabilities of dnsenum, its applications in cybersecurity, and practical techniques for leveraging it effectively. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Tie7IHF9XEaFbf7ennTyT?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is dnsenum?

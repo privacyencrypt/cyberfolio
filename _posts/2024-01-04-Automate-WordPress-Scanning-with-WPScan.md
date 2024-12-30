@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Tools]
 
 **WPScan** is a specialized security scanner designed for WordPress websites. It automates the process of identifying vulnerabilities, weak credentials, and outdated components, providing a comprehensive assessment of a WordPress site’s security posture. This blog post explores the functionality of WPScan, its applications in cybersecurity, and step-by-step instructions for conducting WordPress scans. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0y2pKkyiEpCjmzz0SwoLIt?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is WPScan?

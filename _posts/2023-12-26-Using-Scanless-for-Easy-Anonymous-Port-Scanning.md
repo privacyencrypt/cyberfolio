@@ -8,7 +8,10 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Scanless** tool is a streamlined solution for performing anonymous port scans by leveraging third-party web services. It enables cybersecurity professionals to assess open ports on a target system without directly interacting with the target, reducing the likelihood of detection. This blog post explores Scanless’s features, its applications in cybersecurity, and its advantages for stealthy reconnaissance. Follow the included **lab walkthrough** for practical experience.
 
----
+-{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4cxPMFFCwDhvOazCbxyjz5?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
+--
 
 ## What is Scanless?
 

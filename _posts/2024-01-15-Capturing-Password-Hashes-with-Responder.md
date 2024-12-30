@@ -8,6 +8,9 @@ tags: [Cybersecurity, Network Security, Tools]
 
 **Responder** is a powerful tool for performing network-based attacks to capture password hashes. It targets weaknesses in authentication protocols, such as LLMNR, NBT-NS, and MDNS, allowing attackers to intercept and manipulate network traffic to harvest credentials. This blog post explores Responder’s functionality, its applications in penetration testing, and step-by-step instructions for capturing password hashes. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3uqPMkw9rDao0wjDAjs3l7?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Responder?

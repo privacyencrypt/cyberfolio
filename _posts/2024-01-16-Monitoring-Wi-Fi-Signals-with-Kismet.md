@@ -8,6 +8,9 @@ tags: [Cybersecurity, Wireless Security, Tools]
 
 **Kismet** is a versatile wireless network detection and monitoring tool used to capture Wi-Fi signals and analyze network traffic. It supports multiple wireless standards, including Wi-Fi, Bluetooth, and Software Defined Radio (SDR). This blog post explores Kismet’s capabilities, its applications in cybersecurity, and step-by-step instructions for monitoring Wi-Fi networks. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6RXN8pb5Tiw9OAOHYagZ19?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Kismet?

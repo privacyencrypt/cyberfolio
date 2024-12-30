@@ -8,6 +8,9 @@ tags: [Cybersecurity, Password Cracking, Tools]
 
 **Hashcat** is one of the fastest and most advanced password recovery tools available, widely used by cybersecurity professionals for ethical hacking and penetration testing. Its ability to leverage GPUs for high-speed hashing makes it a powerful tool for cracking complex passwords. This blog post explores the features of Hashcat, its use in cybersecurity, and step-by-step instructions for cracking passwords ethically. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2nLZ0Uol5RzBIq7d5r2zkl?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Hashcat?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **IP scanner** is a crucial tool for identifying and analyzing devices on a network. Whether you are a network administrator managing devices or a cybersecurity professional assessing security, IP scanners help map networks, identify unauthorized devices, and locate vulnerabilities. This blog post explores the features of IP scanners, their importance in cybersecurity, and how to use them effectively. Follow the included **lab walkthrough** for hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SstfVvxl1kjt0wDdgd0Dt?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is an IP Scanner?

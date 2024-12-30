@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Vulnerabilities]
 
 **Broken Access Control** is a critical security vulnerability that allows unauthorized users to access resources or perform actions beyond their intended privileges. As one of the OWASP Top 10 vulnerabilities, broken access control is a significant threat to web applications and systems. This blog post explores the nature of broken access control, its risks, and practical measures for detection and prevention. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0H44C4ZRlbiopKY3LaAhG9?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Broken Access Control?

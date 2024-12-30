@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 **macchanger** is a powerful tool for spoofing or changing the MAC (Media Access Control) address of a network interface card. By temporarily or permanently altering a MAC address, cybersecurity professionals can enhance privacy, bypass network filters, or simulate devices for testing purposes. This blog post explores macchanger’s features, its applications in cybersecurity, and step-by-step instructions for using it effectively. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kJp2tvIwDsMFL7cIb6r9r?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is macchanger?

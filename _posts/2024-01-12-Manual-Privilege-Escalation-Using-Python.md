@@ -8,6 +8,9 @@ tags: [Cybersecurity, Privilege Escalation, Python]
 
 **Privilege escalation** is a critical phase in penetration testing, where attackers attempt to gain higher privileges on a system. Using Python, security professionals can exploit misconfigurations or vulnerabilities to achieve manual privilege escalation. This blog post explores the mechanics of manual privilege escalation using Python, common techniques, and defensive measures. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3yy6e3jHKowIHA7CJuV8pk?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Privilege Escalation?

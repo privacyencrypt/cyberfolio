@@ -8,6 +8,9 @@ tags: [Cybersecurity, Web Security, Attacks]
 
 **Cross-Site Request Forgery (CSRF)** is a web security vulnerability that tricks users into executing unwanted actions on a trusted website. By exploiting the trust between a browser and a server, attackers can perform actions as the victim, such as transferring funds or changing account details. This blog post explores the mechanics of CSRF, its impact, and practical measures for detection and prevention. Follow the included **lab walkthrough** for hands-on practice.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0a4yjU6nn4shB0gSTdTaeQ?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Cross-Site Request Forgery (CSRF)?
