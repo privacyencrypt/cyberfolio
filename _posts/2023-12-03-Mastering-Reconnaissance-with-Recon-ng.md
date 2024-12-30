@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Reconnaissance is a critical phase in penetration testing, laying the groundwork for discovering vulnerabilities and planning attacks. **Recon-ng**, a modular and versatile reconnaissance framework, is an essential tool for this purpose. Its ability to automate information gathering and integrate various data sources makes it a favorite among cybersecurity professionals. In this blog post, we’ll explore the features and benefits of Recon-ng, along with how it fits into the reconnaissance phase of a penetration test. Don’t forget to explore the accompanying **hands-on lab walkthrough** for practical experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0HQGeA7YmQgF3fHAqugl4N?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Recon-ng?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Wireless networks are a common target for attackers, and one of the most effective techniques is the **Evil Twin attack**. By impersonating legitimate Wi-Fi networks, attackers can lure unsuspecting users into connecting to malicious access points. **Airgeddon**, a versatile wireless security testing tool, simplifies the process of conducting Evil Twin attacks while providing features to test and secure wireless networks. In this blog post, we’ll explore the mechanics of Evil Twin attacks, Airgeddon’s capabilities, and how to use this tool effectively. For a practical demonstration, be sure to follow the accompanying **hands-on lab walkthrough**.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0mavHYMxVLw6EoXVM3DLVk?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is an Evil Twin Attack?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 The **Ping** command is a simple yet powerful network diagnostic tool that plays an essential role in testing connectivity, measuring latency, and diagnosing network issues. Named after the sonar sound used in submarines, Ping is a staple utility for network administrators and cybersecurity professionals. This blog post explores the fundamentals of Ping, its various uses, and how it contributes to both network troubleshooting and penetration testing. For hands-on experience, follow the **lab walkthrough** linked to this post.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6kmAFNQDH3uBJEMoDGtsCC?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Ping?

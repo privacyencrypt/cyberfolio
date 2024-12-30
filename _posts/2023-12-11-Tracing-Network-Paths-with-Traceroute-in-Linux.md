@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Understanding the path that data takes across a network is critical for both network diagnostics and penetration testing. **Traceroute**, a network diagnostic tool, provides insights into the route packets take to reach their destination. By identifying hops, analyzing latency, and discovering potential bottlenecks, Traceroute helps testers and administrators better understand the network’s structure and performance. In this blog post, we’ll explore how to use Traceroute in Linux effectively, its key features, and its role in cybersecurity. For practical experience, check out the **hands-on lab walkthrough** linked to this post.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4KQNJU7EwqplAUQVNzQNx7?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Traceroute?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Virtualization, Tools]
 
 Kali Linux is the go-to operating system for cybersecurity professionals, offering a comprehensive suite of tools for penetration testing, ethical hacking, and security research. Setting up Kali Linux on a virtual machine (VM) provides a safe and isolated environment for learning and testing. This blog post will guide you through the process of creating your own Kali Linux VM, highlight its benefits, and share best practices for virtualization. A detailed **lab walkthrough** is included to ensure hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3XoQNgVYpWpCovYcwNnZmL?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is a Virtual Machine?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 Secure Shell (SSH) is an essential protocol for securely accessing and managing remote servers. For Linux users, SSH offers a straightforward way to execute commands, transfer files, and perform administrative tasks from the terminal. This blog post covers how to SSH into a server from a Linux machine, the importance of SSH in cybersecurity, and best practices for secure remote access. A step-by-step **lab walkthrough** is also included to provide hands-on experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7F549cFfhcpAEFub0zfrul?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is SSH?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 In the realm of penetration testing and web security, **cURL** is a lightweight yet powerful command-line tool used for transferring data across various protocols. By simulating HTTP requests, cURL enables testers to interact with web applications, analyze responses, and uncover vulnerabilities. This blog post explores cURL's key features, common use cases, and its role in web security assessments. For hands-on experience, be sure to follow the **lab walkthrough** linked to this post.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4hQsSMywcZRVSLi4ZVKRMK?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is cURL?

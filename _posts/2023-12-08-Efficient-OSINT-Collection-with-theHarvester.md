@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Open Source Intelligence (OSINT) is a foundational phase in penetration testing, allowing testers to gather publicly available information about their target. **theHarvester**, a powerful OSINT tool, simplifies this process by automating the collection of valuable data such as emails, subdomains, IP addresses, and more. In this blog post, we’ll explore theHarvester’s features, use cases, and its role in information gathering. For practical guidance, don’t forget to check out the **hands-on lab walkthrough** included.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4UaZ6n26WjxoYcQLinBELJ?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is theHarvester?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Burp Suite is a widely-used tool in the cybersecurity industry, providing penetration testers with powerful capabilities to analyze, intercept, and manipulate HTTP/S requests. By intercepting client-side requests, Burp Suite allows testers to uncover vulnerabilities, analyze web traffic, and identify potential attack vectors. In this blog post, we’ll explore the fundamentals of Burp Suite, its core features, and how it can be used for intercepting client-side requests. Don’t forget to explore the **hands-on lab walkthrough** for practical insights and detailed guidance.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2pCEgmF84cU6hZR53Y9cNe?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Burp Suite?

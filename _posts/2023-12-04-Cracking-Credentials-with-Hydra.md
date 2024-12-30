@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 In the world of cybersecurity, strong authentication is often the first line of defense against malicious actors. **Hydra**, a fast and flexible network login cracker, is a critical tool for testing the robustness of authentication systems. By simulating brute force and dictionary attacks, Hydra enables penetration testers to identify weak credentials and vulnerabilities in authentication mechanisms. This blog post delves into Hydra's capabilities, use cases, and ethical considerations. For a practical exploration, don’t miss the accompanying **hands-on lab walkthrough** that showcases Hydra in action.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Go0gDQB05Irb3fJJZnIDz?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Hydra?

@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Structured Query Language (SQL) Injection is a critical vulnerability that allows attackers to manipulate databases through insecure web applications. To test for and exploit such vulnerabilities efficiently, cybersecurity professionals rely on tools like **SQLmap**, an open-source tool designed to automate SQL injection attacks and database takeover processes. In this blog post, we’ll dive into SQLmap’s features, use cases, and ethical considerations. Don’t forget to explore the **hands-on lab walkthrough** that complements this guide for practical insights.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/16YppVrSeWFBKEcW4Bz23v?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is SQLmap?

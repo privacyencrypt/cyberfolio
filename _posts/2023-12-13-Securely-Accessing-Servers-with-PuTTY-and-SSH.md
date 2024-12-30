@@ -8,6 +8,9 @@ tags: [Cybersecurity, Networking, Tools]
 
 Secure Shell (SSH) is a widely-used protocol for securely accessing remote servers, enabling administrators and penetration testers to execute commands, transfer files, and perform system management tasks. For Windows users, **PuTTY** is a powerful and lightweight client that simplifies the process of connecting to servers using SSH. This blog post covers how to SSH into a server from a Windows machine using PuTTY, the protocol’s significance in cybersecurity, and best practices for secure remote access. A step-by-step **lab walkthrough** is also included for practical experience.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5PWBWwfvzuSmdYeWWLByvr?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is SSH?

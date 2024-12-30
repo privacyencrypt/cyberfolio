@@ -8,6 +8,9 @@ tags: [Cybersecurity, Penetration Testing, Tools]
 
 Network security forms the backbone of any robust IT infrastructure, and tools like **Nmap (Network Mapper)** play a vital role in assessing and fortifying it. Widely regarded as the Swiss Army knife for network scanning and reconnaissance, Nmap helps cybersecurity professionals map networks, identify vulnerabilities, and proactively defend against potential attacks. In this blog post, we’ll explore what makes Nmap a cornerstone tool in penetration testing and network security, along with key insights into its usage. For a more in-depth exploration, don’t forget to check out the **hands-on lab walkthrough** that accompanies this post.
 
+{% raw %}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/10khHIhkV0HCNMgCb0Qdqj?utm_source=generator" width="100%" height="30" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{% endraw %}
 ---
 
 ## What is Nmap?
